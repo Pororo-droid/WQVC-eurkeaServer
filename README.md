@@ -7,7 +7,7 @@ WQVC(WebRTC-QUIC Video Conference)의 Eureka Server. Auth server, Chat server, V
 git clone https://github.com/Pororo-droid/WQVC-eurkeaServer.git
 
 cd WQVC-eurekaServer/
-./mvnw package && java -jar target/webrtc-0.0.1-SNAPSHOT.jar
+./mvnw package && java -jar target/EurekaServer-0.0.1-SNAPSHOT.jar
 ```
 
 ## 방향성
