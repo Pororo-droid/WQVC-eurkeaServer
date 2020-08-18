@@ -10,5 +10,5 @@ cd WQVC-eurekaServer/
 ./mvnw package && java -jar target/webrtc-0.0.1-SNAPSHOT.jar
 ```
 
-##방향성
+## 방향성
 추후 발전 가능성: netflix oss의 zuul을 이용하여 api gateway mesh를 실현시킨다.
